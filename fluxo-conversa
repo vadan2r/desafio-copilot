@@ -1,0 +1,30 @@
+Copilot com Fluxo de Conversa Personalizado no MS Copilot Studio
+
+1. Criar Agente em branco
+- acessar a página copilot studio
+- Escolher nome, 
+- incluir descrição, 
+- instrução é o prompt, a condição ou regra para o Copilot (Agente) se guiar
+- conhecimento: são as referências para guiar
+
+2. Customizar um tópico
+- Clica em “Tópicos”, na barra de opções no topo da página de criação do Agente
+- Adicionar com base em descrição ou em branco.
+- Pode-se customizar as frases de gatilho
+- Adicionar nova ação, pode-se usar “Generative Answers”
+- Escolher qual o input “Activity text”
+- Mensagem de encerramento “Tópico de AI Builder encerrado”
+- Testar, fazendo perguntas que o usuário poderia fazer.
+
+3. Personalizar uma mensagem de erro de tópico (duas opções)
+Em “Tópicos”, Primeira opção:
+- clicar em “Conversational Boosting” e usar o “Unknown Intent”, ou seja, quando o Agent não entendeu a pergunta do usuário, usará respostas generativas. Se a resposta em branco, ele finaliza a conversa.
+Segunda opção:
+- clicar em “Fallback”, tudo que falhar da conversa, cai neste tópico. A conclusão aqui é que no Fallback, o Agente recorre ao Conversational Boosting.
+
+4. Ajustar a qualidade da resposta com GenAI (opções de configuração no conversational boosting)
+- Permitir que o Agente utilize conhecimento amplo do copilot
+- Criar prompts adicionais e usar variáveis
+-Ajuste o Content moderation level(entre low a high, para o grau de liberdade na resposta)
+
+
