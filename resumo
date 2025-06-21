@@ -1,0 +1,25 @@
+Desafio Criando um primeiro Copilot (MS Copilot Studio)
+
+1. Criar um Copilot baseado no modelo de Viagens ou Safe Travels
+Escolha do modelo pronto (várias opções)
+Nomear e descrever
+- Instruções ou prompt de como a IA deve atuar
+- Exemplo: “Você é especialista em viagens e representa a empresa XYZ de Viagens, responda aos clientes com cordialidade.”
+- Base de conhecimento: sites de referência
+- Escolha do idioma principal
+- Clicar em criar e pronto.
+
+2. Criar um Copilot em descrição com IA
+Descreva seu agente AI para criá-lo:
+- Exemplo: Crie um agente de viagem da empresa XYZ Viagens e será responsável por auxiliar clientes em sua preparação e planejamento de viagem”
+- Nome: XYZ Agente de Viagem
+
+3. Criar um Copilot em branco
+Há dois paineis ou possibilidades de ambiente de criação
+- Selecionar idioma
+- Nome
+- Inserir logo
+- Descrição
+- Instruções
+- Base de conhecimento (incluir posteriormente, primeiro criar estrutura)
+- Advanced Settings: há a opção de usar esquema pré-definido.
